@@ -24,7 +24,7 @@ The dashboard provides insights into pollution levels, city-wise comparisons, an
 
 
 ## ▶️ How to Use
-1. Download the `.pbix` file from this repo
+1. Download the `AIRQUALITY.pbix` file from this repo
 2. Open it in **Power BI Desktop**
 3. Explore the interactive dashboard with filters
 
