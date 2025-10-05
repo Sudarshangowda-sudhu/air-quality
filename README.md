@@ -34,4 +34,4 @@ A detailed PDF report version of the dashboard is included in the `/report` fold
 ---
 👤 **Author:** Sudarshan Gowda  
 📧 Email: sudarshan004.gowda@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/your-github)
+🔗 [LinkedIn](https://www.linkedin.com/in/sudarshan-gowda-73bbb525b/) | [GitHub](https://github.com/Sudarshangowda-sudhu)
